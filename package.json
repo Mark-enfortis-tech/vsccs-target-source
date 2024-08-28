@@ -16,5 +16,8 @@
     "url": "https://github.com/Mark-enfortis-tech/vsccs-target-source/issues"
   },
   "homepage": "https://github.com/Mark-enfortis-tech/vsccs-target-source#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "tm-timer": "^1.0.2"
+  }
 }
